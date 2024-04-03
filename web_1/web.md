@@ -58,22 +58,46 @@
 
 * Change № 1 (rabbit)
 
- ![change1](rabbit.jpg)
+![change1](rabbit.jpg)
 
 * Сhange № 2 (colour)
 
- ![change1](colour.jpg)
+![change2](colour.jpg)
 
 * Change № 3 (space)
 
- ![change1](space.jpg)
+![change3](space.jpg)
 
 * Change № 4 (font-size)
 
-![change1](font-size.jpg)
+![change4](font-size.jpg)
 
 * Change № 5 (search-input-position)
 
-![change1](search-input-position.jpg)
+![change5](search-input-position.jpg)
 
-* Change № 6 ()
+* Change № 6 (subscribe-colour)
+
+![change6](subscribe.jpg)
+
+* Change № 7 (why_subscribe)
+
+![change7](why.jpg)
+
+* Change № 8 (dzen)
+
+![change8](dzen.jpg)
+
+* Change № 9 (theme_colour)
+
+![change9](theme.jpg)
+
+* Change № 10 (logo_change)
+
+![change10](logo.jpg)
+
+### 4. Создайте прототип низкой детализации.
+
+![Travel site](travel_site.png)
+
+* [WireFrame.cc link](https://wireframe.cc/g2mebA)
