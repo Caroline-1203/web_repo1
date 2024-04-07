@@ -82,7 +82,7 @@
 
 * Change № 7 (why_subscribe)
 
-![change7](why.jpg)
+![change7](Why.jpg)
 
 * Change № 8 (dzen)
 
